@@ -1,3 +1,5 @@
 __pycache__/
 a.py
 plates/
+*.zip
+DataSet/
